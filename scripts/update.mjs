@@ -3,9 +3,17 @@
 // from Türkiye before. No dependencies; Node 20+.
 import fs from 'node:fs';
 const SITE = 'https://gocmeden.hellobasalt.dev';
-const res = await fetch(process.env.SOURCE || `${SITE}/veri/v1/companies.json`, {headers: {'User-Agent': 'turkiye-remote-sirketler'}});
-if (!res.ok) throw new Error(`companies.json: HTTP ${res.status}`);
-const now = await res.json();
+// The hellobasalt.dev zone runs Bot Fight Mode, which answers GitHub's runners with 403, so the same Worker is read
+// through its workers.dev hostname first. Links in the output still point to the main domain.
+const SOURCES = process.env.SOURCE ? [process.env.SOURCE]
+  : ['https://gocmeden.hellobasalt.workers.dev/veri/v1/companies.json', `${SITE}/veri/v1/companies.json`];
+let now;
+for (const url of SOURCES) {
+  const res = await fetch(url, {headers: {'User-Agent': 'turkiye-remote-sirketler'}}).catch(e => ({ok: false, status: e.message}));
+  if (res.ok) { now = await res.json(); break; }
+  console.log(`${url}: HTTP ${res.status}`);
+}
+if (!now) throw new Error('companies.json could not be read from any source');
 const day = now.generated.slice(0, 10);
 const FILE = 'data/companies.json';
 const past = fs.existsSync(FILE) ? JSON.parse(fs.readFileSync(FILE, 'utf8')) : {companies: {}};
