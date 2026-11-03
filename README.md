@@ -2,7 +2,7 @@
 
 Türkiye'de yaşarken başvurabileceğin, şu an açık remote yazılım ilanı olan yabancı şirketler. Liste her sabah [Göçmeden](https://gocmeden.hellobasalt.dev/)'in verisinden kendiliğinden güncellenir.
 
-**Son güncelleme: 2026-11-02** · 61 şirket · Türkiye'ye açık 133 ilan · Türkiye'yi kapsayıp kapsamadığı belirsiz AB/EMEA ilanı 45
+**Son güncelleme: 2026-11-03** · 57 şirket · Türkiye'ye açık 129 ilan · Türkiye'yi kapsayıp kapsamadığı belirsiz AB/EMEA ilanı 40
 
 "Remote" yazan ilanların yarısı Türkiye'den başvuruya kapalı (19 Ekim 2026'da taranan 422 ilanın 211'i): ABD şartı, Türkiye'nin olmadığı ülke listesi, AB çalışma izni. Göçmeden her ilanın metnini okuyup Türkiye'den başvurulabilir mi diye etiketliyor ve kararı veren cümleyi ilandan alıntılıyor. Gerekçe ve alıntı her ilanın Göçmeden sayfasında.
 
@@ -10,17 +10,16 @@ Türkiye'de yaşarken başvurabileceğin, şu an açık remote yazılım ilanı 
 
 | Şirket | Türkiye'ye açık | AB (belirsiz) | Roller | İlanlar |
 |---|---:|---:|---|---|
-| Canonical | 15 | 0 | Yazılım (genel), Mühendislik yönetimi, Backend | [Cloud Field Engineering Manager](https://gocmeden.hellobasalt.dev/is/canonical-cloud-field-engineering-manager-86bf67/)<br>[Engineering Manager - Ubuntu Core](https://gocmeden.hellobasalt.dev/is/canonical-engineering-manager-ubuntu-core-42a413/)<br>[Golang Software Engineer, Commercial Systems](https://gocmeden.hellobasalt.dev/is/canonical-golang-software-engineer-commercial-systems-e14786/)<br>[Golang System Software Engineer - Containers / Virtualisation](https://gocmeden.hellobasalt.dev/is/canonical-golang-system-software-engineer-containers-cb09fd/)<br>[+11 ilan](https://gocmeden.hellobasalt.dev/) |
+| Canonical | 17 | 0 | Yazılım (genel), Mühendislik yönetimi, Backend | [Cloud Field Engineering Manager](https://gocmeden.hellobasalt.dev/is/canonical-cloud-field-engineering-manager-86bf67/)<br>[Containerization & Virtualisation Engineer](https://gocmeden.hellobasalt.dev/is/canonical-containerization-virtualisation-engineer-a40b24/)<br>[Embedded Linux Senior Software Engineer - Optimisation](https://gocmeden.hellobasalt.dev/is/canonical-embedded-linux-senior-software-engineer-f32776/)<br>[Engineering Manager - Ubuntu Core](https://gocmeden.hellobasalt.dev/is/canonical-engineering-manager-ubuntu-core-42a413/)<br>[+13 ilan](https://gocmeden.hellobasalt.dev/) |
 | Proxify | 15 | 0 | Backend, DevOps / SRE / Cloud, Full-stack, Yazılım (genel), AI / ML, Veri, QA / Test | [Senior AI Engineer (Backend-Focused)](https://gocmeden.hellobasalt.dev/is/proxify-senior-ai-engineer-backend-focused-d84b91/)<br>[Senior Backend Developer (.NET)](https://gocmeden.hellobasalt.dev/is/proxify-senior-backend-developer-net-129cb8/)<br>[Senior Backend Developer (Node.js / Nest.js)](https://gocmeden.hellobasalt.dev/is/proxify-senior-backend-developer-node-js-nest-js-ecf8c1/)<br>[Senior Backend Developer (Python)](https://gocmeden.hellobasalt.dev/is/proxify-senior-backend-developer-python-f9a7f8/)<br>[+11 ilan](https://gocmeden.hellobasalt.dev/) |
 | Supabase | 12 | 0 | Yazılım (genel), Backend, Ürün, Mühendislik yönetimi, Veri, DevOps / SRE / Cloud, AI / ML | [Container Engineer](https://gocmeden.hellobasalt.dev/is/supabase-container-engineer-e49271/)<br>[Data API Engineer](https://gocmeden.hellobasalt.dev/is/supabase-data-api-engineer-1a4e41/)<br>[Engineering Manager - Spark](https://gocmeden.hellobasalt.dev/is/supabase-engineering-manager-spark-b4b5ea/)<br>[GRC Analyst](https://gocmeden.hellobasalt.dev/is/supabase-grc-analyst-335583/)<br>[+8 ilan](https://gocmeden.hellobasalt.dev/) |
 | Metabase | 9 | 1 | Yazılım (genel), Mühendislik yönetimi, Tasarım, Güvenlik, DevOps / SRE / Cloud, Backend, Frontend, Ürün | [CI Engineer](https://gocmeden.hellobasalt.dev/is/metabase-ci-engineer-6f1102/)<br>[Engineering Manager](https://gocmeden.hellobasalt.dev/is/metabase-engineering-manager-f5231f/)<br>[Product Designer](https://gocmeden.hellobasalt.dev/is/metabase-product-designer-53f2d9/)<br>[Security Engineer](https://gocmeden.hellobasalt.dev/is/metabase-security-engineer-ba3585/)<br>[+6 ilan](https://gocmeden.hellobasalt.dev/) |
 | Lemon.io | 8 | 2 | Full-stack, Frontend, Backend, AI / ML, DevOps / SRE / Cloud, Mobil | [Senior AI Engineer / Architect](https://gocmeden.hellobasalt.dev/is/lemon-io-senior-ai-engineer-architect-96f222/)<br>[Senior Angular Developer](https://gocmeden.hellobasalt.dev/is/lemon-io-senior-angular-developer-c0a434/)<br>[Senior Back-end Developer](https://gocmeden.hellobasalt.dev/is/lemon-io-senior-back-end-developer-7eddb0/) (AB)<br>[Senior DevOps Engineer](https://gocmeden.hellobasalt.dev/is/lemon-io-senior-devops-engineer-d75584/)<br>[+6 ilan](https://gocmeden.hellobasalt.dev/) |
 | Railway | 7 | 0 | Yazılım (genel), DevOps / SRE / Cloud, Full-stack | [Infra Engineer - Datacenters](https://gocmeden.hellobasalt.dev/is/railway-infra-engineer-datacenters-66065d/)<br>[Infrastructure Engineer](https://gocmeden.hellobasalt.dev/is/railway-infrastructure-engineer-06a34b/)<br>[Senior Full-Stack Engineer - Product](https://gocmeden.hellobasalt.dev/is/railway-senior-full-stack-engineer-product-5db55c/)<br>[Senior Infra Engineer: Baremetal Orchestration](https://gocmeden.hellobasalt.dev/is/railway-senior-infra-engineer-baremetal-orchestration-167b2e/)<br>[+3 ilan](https://gocmeden.hellobasalt.dev/) |
-| Sporty Group | 5 | 5 | Backend, Frontend, DevOps / SRE / Cloud, AI / ML, Yazılım (genel), QA / Test, Güvenlik | [Backend Software Engineering Team Lead](https://gocmeden.hellobasalt.dev/is/sporty-group-backend-software-engineering-team-lead-a10753/) (AB)<br>[Data Scientist (Europe, Asia)](https://gocmeden.hellobasalt.dev/is/sporty-group-data-scientist-europe-asia-a597b0/)<br>[Database Reliability Engineer](https://gocmeden.hellobasalt.dev/is/sporty-group-database-reliability-engineer-537ff4/) (AB)<br>[Frontend Engineer](https://gocmeden.hellobasalt.dev/is/sporty-group-frontend-engineer-065694/)<br>[+6 ilan](https://gocmeden.hellobasalt.dev/) |
-| UNICEF | 5 | 0 | Veri, Yazılım (genel), Backend | [Bebbo Technology Consultant, Early Childhood Development (ECD), Global Programme Division, Nairobi/Remote,13.5 Months #596619](https://gocmeden.hellobasalt.dev/is/unicef-bebbo-technology-consultant-early-childhood-bc0b79/)<br>[Consultancy - Connectivity Credits Backend Software Engineering Consultant,Digital Impact Division,Geneva, CH,6 Months (Remote)](https://gocmeden.hellobasalt.dev/is/unicef-consultancy-connectivity-credits-backend-software-b312c1/)<br>[Data analytics and trend analysis for Global Effectiveness Review (GER), Research, Planning, Monitoring and Evaluation Section, 5,5 months, Florence, Italy, Home based](https://gocmeden.hellobasalt.dev/is/unicef-data-analytics-and-trend-analysis-for-global-e9f14a/)<br>[Digital Data Analyst EAP Region Consultancy, Private FR & Partnership (PFP), Rome, Italy, Remote, 12 months, International](https://gocmeden.hellobasalt.dev/is/unicef-digital-data-analyst-eap-region-consultancy-private-18c249/)<br>[+1 ilan](https://gocmeden.hellobasalt.dev/) |
+| Sporty Group | 5 | 4 | Backend, DevOps / SRE / Cloud, AI / ML, Yazılım (genel), Frontend, QA / Test, Güvenlik | [Backend Software Engineering Team Lead](https://gocmeden.hellobasalt.dev/is/sporty-group-backend-software-engineering-team-lead-a10753/) (AB)<br>[Data Scientist (Europe, Asia)](https://gocmeden.hellobasalt.dev/is/sporty-group-data-scientist-europe-asia-a597b0/)<br>[Database Reliability Engineer](https://gocmeden.hellobasalt.dev/is/sporty-group-database-reliability-engineer-537ff4/) (AB)<br>[Frontend Engineer](https://gocmeden.hellobasalt.dev/is/sporty-group-frontend-engineer-065694/)<br>[+5 ilan](https://gocmeden.hellobasalt.dev/) |
 | DuckDuckGo | 3 | 0 | Backend, Yazılım (genel), Güvenlik | [Senior Backend Engineer](https://gocmeden.hellobasalt.dev/is/duckduckgo-senior-backend-engineer-e521f3/)<br>[Senior C++ Engineer](https://gocmeden.hellobasalt.dev/is/duckduckgo-senior-c-engineer-aef29a/)<br>[Senior Web Security Engineer, Browser Platform](https://gocmeden.hellobasalt.dev/is/duckduckgo-senior-web-security-engineer-browser-platform-d3286d/) |
-| micro1 | 3 | 0 | AI / ML, Yazılım (genel) | [AI Jailbreak & Prompt-Injection Security Expert](https://gocmeden.hellobasalt.dev/is/micro1-ai-jailbreak-prompt-injection-security-expert-7d31df/)<br>[Game Developer](https://gocmeden.hellobasalt.dev/is/micro1-game-developer-b35607/)<br>[ML Engineer (MSc. or PhD)](https://gocmeden.hellobasalt.dev/is/micro1-ml-engineer-msc-or-phd-b283f0/) |
 | Surgo Health | 3 | 0 | AI / ML, Veri, Full-stack | [Backend Engineer, AI Interview Engine (Python)](https://gocmeden.hellobasalt.dev/is/surgo-health-backend-engineer-ai-interview-engine-python-ccc893/)<br>[Data Engineer](https://gocmeden.hellobasalt.dev/is/surgo-health-data-engineer-266588/)<br>[Full-Stack Engineer](https://gocmeden.hellobasalt.dev/is/surgo-health-full-stack-engineer-a5a0aa/) |
+| UNICEF | 3 | 0 | Veri, Backend | [Consultancy - Connectivity Credits Backend Software Engineering Consultant,Digital Impact Division,Geneva, CH,6 Months (Remote)](https://gocmeden.hellobasalt.dev/is/unicef-consultancy-connectivity-credits-backend-software-b312c1/)<br>[Data analytics and trend analysis for Global Effectiveness Review (GER), Research, Planning, Monitoring and Evaluation Section, 5,5 months, Florence, Italy, Home based](https://gocmeden.hellobasalt.dev/is/unicef-data-analytics-and-trend-analysis-for-global-e9f14a/)<br>[Partnership Data Management and Business Intelligence Consultant, Private FR & Partnership (PFP),Rome - Homebased, 7 months, National and International](https://gocmeden.hellobasalt.dev/is/unicef-partnership-data-management-and-business-intelligence-363220/) |
 | Wikimedia Foundation | 3 | 0 | Mobil, AI / ML | [Senior Data Scientist, Safety & Security](https://gocmeden.hellobasalt.dev/is/wikimedia-foundation-senior-data-scientist-safety-security-416198/)<br>[Senior Software Engineer, Android (Contract)](https://gocmeden.hellobasalt.dev/is/wikimedia-foundation-senior-software-engineer-android-26bbcd/)<br>[Senior Software Engineer, iOS (Contract)](https://gocmeden.hellobasalt.dev/is/wikimedia-foundation-senior-software-engineer-ios-contract-6ed47c/) |
 | Zapier | 3 | 0 | Yazılım (genel), DevOps / SRE / Cloud, Tasarım | [Sr. Engineer, Database Reliability](https://gocmeden.hellobasalt.dev/is/zapier-sr-engineer-database-reliability-ab8a5e/)<br>[Sr. Engineer, Infrastructure Security](https://gocmeden.hellobasalt.dev/is/zapier-sr-engineer-infrastructure-security-275f30/)<br>[Sr. Motion Designer](https://gocmeden.hellobasalt.dev/is/zapier-sr-motion-designer-0df613/) |
 | Oyster HR | 2 | 2 | Ürün, AI / ML, Veri, Backend | [Lead Product Manager](https://gocmeden.hellobasalt.dev/is/oyster-hr-lead-product-manager-4e392f/) (AB)<br>[Senior AI Solutions Engineer](https://gocmeden.hellobasalt.dev/is/oyster-hr-senior-ai-solutions-engineer-015a46/)<br>[Senior Data Engineer](https://gocmeden.hellobasalt.dev/is/oyster-hr-senior-data-engineer-1c7e53/) (AB)<br>[Software Engineer (Ruby on Rails, APIs)](https://gocmeden.hellobasalt.dev/is/oyster-hr-software-engineer-ruby-on-rails-apis-f85d0b/) |
@@ -32,45 +31,42 @@ Türkiye'de yaşarken başvurabileceğin, şu an açık remote yazılım ilanı 
 | GiveDirectly | 2 | 0 | AI / ML, Yazılım (genel) | [Senior Data Scientist, MNO Data](https://gocmeden.hellobasalt.dev/is/givedirectly-senior-data-scientist-mno-data-828583/)<br>[Technical Program Associate or Manager](https://gocmeden.hellobasalt.dev/is/givedirectly-technical-program-associate-or-manager-886e23/) |
 | lemon.io | 2 | 0 | Mobil, Tasarım | [Senior React Native Developer](https://gocmeden.hellobasalt.dev/is/lemon-io-senior-react-native-developer-35a27a/)<br>[Senior UI & UX Designer](https://gocmeden.hellobasalt.dev/is/lemon-io-senior-ui-ux-designer-aef175/) |
 | Sourcegraph | 2 | 0 | AI / ML, Yazılım (genel) | [ML & Agentic Systems Engineer \[IC4\]](https://gocmeden.hellobasalt.dev/is/sourcegraph-ml-agentic-systems-engineer-ic4-799b6b/)<br>[Software Engineer - Platform \[IC3\]](https://gocmeden.hellobasalt.dev/is/sourcegraph-software-engineer-platform-ic3-4a8f40/) |
-| ALBERT | 1 | 0 | Yazılım (genel) | [Hiring principal and distinguished engineers to build net new products](https://gocmeden.hellobasalt.dev/is/albert-hiring-principal-and-distinguished-engineers-to-build-038c7d/) |
 | Avalanche | 1 | 0 | Mühendislik yönetimi | [Senior Engineering Manager, Fortary Platform](https://gocmeden.hellobasalt.dev/is/avalanche-senior-engineering-manager-fortary-platform-907712/) |
 | B2spin | 1 | 0 | Frontend | [Senior Frontend Engineer](https://gocmeden.hellobasalt.dev/is/b2spin-senior-frontend-engineer-1c3dad/) |
+| Birleşmiş Milletler · Department of Operational Support | 1 | 0 | Veri | [Intern- Data Research](https://gocmeden.hellobasalt.dev/is/birlesmis-milletler-department-intern-data-research-1eac98/) |
 | Bonapolia | 1 | 0 | DevOps / SRE / Cloud | [Senior Kafka/RabbitMQ Platform Engineer](https://gocmeden.hellobasalt.dev/is/bonapolia-senior-kafka-rabbitmq-platform-engineer-d25079/) |
-| Commencis (Commencis Teknoloji A.Ş.) | 1 | 0 | DevOps / SRE / Cloud | [Commencis Cloud Camp 2027](https://gocmeden.hellobasalt.dev/is/commencis-commencis-teknoloji-commencis-cloud-camp-2027-6cbb93/) |
+| Eleshop | 1 | 0 | Full-stack | [Senior PHP Full-stack engineer](https://gocmeden.hellobasalt.dev/is/eleshop-senior-php-full-stack-engineer-5bfa51/) |
+| Evaboot | 1 | 0 | Backend | [Agentic Python Engineer](https://gocmeden.hellobasalt.dev/is/evaboot-agentic-python-engineer-58db11/) |
 | Fueled | 1 | 0 | Tasarım | [UX Designer \| EMEA \| Contract](https://gocmeden.hellobasalt.dev/is/fueled-ux-designer-emea-contract-974a1c/) |
 | HumanSignal | 1 | 0 | Tasarım | [Freelance Graphic Designer - AI Training](https://gocmeden.hellobasalt.dev/is/humansignal-freelance-graphic-designer-ai-training-359481/) |
 | Jito | 1 | 0 | Tasarım | [Product Designer](https://gocmeden.hellobasalt.dev/is/jito-product-designer-f3b4e7/) |
-| MaFi Games | 1 | 0 | Yazılım (genel) | [Senior SWE/Game dev](https://gocmeden.hellobasalt.dev/is/mafi-games-senior-swe-game-dev-076004/) |
-| Mastra | 1 | 0 | AI / ML | [AI Engineer](https://gocmeden.hellobasalt.dev/is/mastra-ai-engineer-fe29fe/) |
-| Matter Labs | 1 | 0 | Güvenlik | [Protocol Security Engineer](https://gocmeden.hellobasalt.dev/is/matter-labs-protocol-security-engineer-3cf20e/) |
+| KSC Trading | 1 | 0 | Backend | [Senior Backend Software Engineer](https://gocmeden.hellobasalt.dev/is/ksc-trading-senior-backend-software-engineer-9d2f0d/) |
+| micro1 | 1 | 0 | AI / ML | [AI Jailbreak & Prompt-Injection Security Expert](https://gocmeden.hellobasalt.dev/is/micro1-ai-jailbreak-prompt-injection-security-expert-7d31df/) |
+| MixRank | 1 | 0 | Yazılım (genel) | [Software Engineers](https://gocmeden.hellobasalt.dev/is/mixrank-software-engineers-2a1e38/) |
 | Religiate Interactive Brand Consulting Pvt Ltd | 1 | 0 | Tasarım | [Senior Graphic Designer](https://gocmeden.hellobasalt.dev/is/religiate-interactive-brand-senior-graphic-designer-082bd8/) |
 | RevenueCat | 1 | 0 | AI / ML | [Senior Data Scientist, Product](https://gocmeden.hellobasalt.dev/is/revenuecat-senior-data-scientist-product-b74c41/) |
-| Ruby Labs | 1 | 0 | Mobil | [Mobile Growth Manager](https://gocmeden.hellobasalt.dev/is/ruby-labs-mobile-growth-manager-54e671/) |
+| SerpApi | 1 | 0 | Full-stack | [Junior to Senior Fullstack Engineer multiple positions](https://gocmeden.hellobasalt.dev/is/serpapi-junior-to-senior-fullstack-engineer-multiple-8f1086/) |
+| Simple Analytics | 1 | 0 | DevOps / SRE / Cloud | [DevOps Engineer](https://gocmeden.hellobasalt.dev/is/simple-analytics-devops-engineer-187d0e/) |
 | Sparkrock | 1 | 0 | AI / ML | [AI-Enabled .NET Chief Architect (OTE $100,000/year USD), @Sparkrock](https://gocmeden.hellobasalt.dev/is/sparkrock-ai-enabled-net-chief-architect-ote-100-000-year-e6cc01/) |
 | Spyrosoft Ltd | 1 | 0 | Yazılım (genel) | [Regular/Senior Salesforce Developer – Agentforce (EMEA)](https://gocmeden.hellobasalt.dev/is/spyrosoft-ltd-regular-senior-salesforce-developer-agentforce-9282a9/) |
-| SumatoSoft | 1 | 0 | QA / Test | [QA Engineer](https://gocmeden.hellobasalt.dev/is/sumatosoft-qa-engineer-2c2a48/) |
 | Support Tech LLC | 1 | 0 | Güvenlik | [Technical Project Manager- Low Voltage, CCTV and Access Control](https://gocmeden.hellobasalt.dev/is/support-tech-llc-technical-project-manager-low-voltage-cctv-22d167/) |
-| Tangem AG | 1 | 0 | Mobil | [Senior Kotlin/Java Developer](https://gocmeden.hellobasalt.dev/is/tangem-ag-senior-kotlin-java-developer-f296f3/) |
-| tbi bank | 1 | 0 | Mobil | [Banking App Technical Lead](https://gocmeden.hellobasalt.dev/is/tbi-bank-banking-app-technical-lead-fcb066/) |
 | Testlio | 1 | 0 | Yazılım (genel) | [Principal Software Architect](https://gocmeden.hellobasalt.dev/is/testlio-principal-software-architect-38e9be/) |
 | Tether Operations Limited | 1 | 0 | DevOps / SRE / Cloud | [Product Engineering Lead](https://gocmeden.hellobasalt.dev/is/tether-operations-limited-product-engineering-lead-d272ad/) |
 | Time Doctor | 1 | 0 | Ürün | [Growth Product Manager](https://gocmeden.hellobasalt.dev/is/time-doctor-growth-product-manager-2a66c0/) |
-| Zella Technologies, LLC | 1 | 0 | Yazılım (genel) | [Support & Systems Engineer (Level 2 / Level 3)](https://gocmeden.hellobasalt.dev/is/zella-technologies-llc-support-systems-engineer-level-2-818417/) |
+| Vonage | 1 | 0 | Yazılım (genel) | [Head of NwPS Engineering](https://gocmeden.hellobasalt.dev/is/vonage-head-of-nwps-engineering-9f4b74/) |
 | ClickHouse | 0 | 5 | DevOps / SRE / Cloud, Güvenlik, QA / Test, Tasarım, AI / ML | [Cloud Database Infrastructure Engineer (EMEA Remote)](https://gocmeden.hellobasalt.dev/is/clickhouse-cloud-database-infrastructure-engineer-emea-0c09bc/) (AB)<br>[Offensive Security Engineer](https://gocmeden.hellobasalt.dev/is/clickhouse-offensive-security-engineer-2773db/) (AB)<br>[QA Engineer - Core Database (remote)](https://gocmeden.hellobasalt.dev/is/clickhouse-qa-engineer-core-database-remote-65d482/) (AB)<br>[Senior Design Engineer - Design System & Platform UI](https://gocmeden.hellobasalt.dev/is/clickhouse-senior-design-engineer-design-system-platform-ui-8c2a64/) (AB)<br>[+1 ilan](https://gocmeden.hellobasalt.dev/) |
 | Resend | 0 | 5 | Backend, Yazılım (genel), Güvenlik | [Backend Engineer](https://gocmeden.hellobasalt.dev/is/resend-backend-engineer-8c64db/) (AB)<br>[Backend Engineer, MTA](https://gocmeden.hellobasalt.dev/is/resend-backend-engineer-mta-edb71d/) (AB)<br>[Security Engineer, Platform](https://gocmeden.hellobasalt.dev/is/resend-security-engineer-platform-178aff/) (AB)<br>[Software Engineer, Developer Tools](https://gocmeden.hellobasalt.dev/is/resend-software-engineer-developer-tools-ce6c8d/) (AB)<br>[+1 ilan](https://gocmeden.hellobasalt.dev/) |
 | Linear | 0 | 4 | Yazılım (genel), Ürün, Tasarım, Full-stack | [Developer Relations](https://gocmeden.hellobasalt.dev/is/linear-developer-relations-cce800/) (AB)<br>[Product Manager](https://gocmeden.hellobasalt.dev/is/linear-product-manager-c87657/) (AB)<br>[Production Designer](https://gocmeden.hellobasalt.dev/is/linear-production-designer-4e98fa/) (AB)<br>[Senior / Staff Product Engineer](https://gocmeden.hellobasalt.dev/is/linear-senior-staff-product-engineer-b3ff5c/) (AB) |
-| n8n | 0 | 4 | Mühendislik yönetimi, Yazılım (genel), AI / ML, Full-stack | [Engineering Manager \| Remote \| Europe](https://gocmeden.hellobasalt.dev/is/n8n-engineering-manager-remote-europe-13c606/) (AB)<br>[Forward Deployed Engineer - EMEA](https://gocmeden.hellobasalt.dev/is/n8n-forward-deployed-engineer-emea-8bce8d/) (AB)<br>[Internal Context Engineer](https://gocmeden.hellobasalt.dev/is/n8n-internal-context-engineer-06200a/) (AB)<br>[Senior Product Engineer (TS/NodeJS/Vue)](https://gocmeden.hellobasalt.dev/is/n8n-senior-product-engineer-ts-nodejs-vue-0dc4c9/) (AB) |
 | Consensys | 0 | 3 | DevOps / SRE / Cloud, Mühendislik yönetimi, Veri | [DevOps Manager](https://gocmeden.hellobasalt.dev/is/consensys-devops-manager-1de26d/) (AB)<br>[Head of Engineering](https://gocmeden.hellobasalt.dev/is/consensys-head-of-engineering-c5ff4b/) (AB)<br>[SOC Analyst](https://gocmeden.hellobasalt.dev/is/consensys-soc-analyst-cf5f7d/) (AB) |
 | Elevenlabs | 0 | 3 | AI / ML, Veri | [Analytics Engineer](https://gocmeden.hellobasalt.dev/is/elevenlabs-analytics-engineer-4ed21e/) (AB)<br>[Applied AI Engineer](https://gocmeden.hellobasalt.dev/is/elevenlabs-applied-ai-engineer-6fdfc7/) (AB)<br>[Finance Data Scientist](https://gocmeden.hellobasalt.dev/is/elevenlabs-finance-data-scientist-868660/) (AB) |
-| Mozilla | 0 | 2 | Veri, Yazılım (genel) | [Contract Sr Data Analyst (SQL,Telemetry,Browser Engine)](https://gocmeden.hellobasalt.dev/is/mozilla-contract-sr-data-analyst-sql-telemetry-browser-39a7e1/) (AB)<br>[Senior Software Engineer, Privacy](https://gocmeden.hellobasalt.dev/is/mozilla-senior-software-engineer-privacy-113ff1/) (AB) |
-| Axmed | 0 | 1 | AI / ML | [AI Engineer (Agentic Systems)](https://gocmeden.hellobasalt.dev/is/axmed-ai-engineer-agentic-systems-5ac108/) (AB) |
-| Better Stack | 0 | 1 | Yazılım (genel) | [Full-stack Engineer](https://gocmeden.hellobasalt.dev/is/better-stack-full-stack-engineer-i-584644/) (AB) |
-| Buoyant | 0 | 1 | DevOps / SRE / Cloud | [Senior Software Engineer – Kubernetes / Distributed Systems](https://gocmeden.hellobasalt.dev/is/buoyant-senior-software-engineer-kubernetes-distributed-e3d10e/) (AB) |
+| n8n | 0 | 3 | Mühendislik yönetimi, Yazılım (genel), AI / ML | [Engineering Manager \| Remote \| Europe](https://gocmeden.hellobasalt.dev/is/n8n-engineering-manager-remote-europe-13c606/) (AB)<br>[Forward Deployed Engineer - EMEA](https://gocmeden.hellobasalt.dev/is/n8n-forward-deployed-engineer-emea-8bce8d/) (AB)<br>[Internal Context Engineer](https://gocmeden.hellobasalt.dev/is/n8n-internal-context-engineer-06200a/) (AB) |
+| Better Stack | 0 | 1 | Yazılım (genel) | [Full-stack Engineer](https://gocmeden.hellobasalt.dev/is/better-stack-full-stack-engineer-i-a843f8/) (AB) |
+| Distru | 0 | 1 | AI / ML | [AI Product Engineer](https://gocmeden.hellobasalt.dev/is/distru-ai-product-engineer-eeefb6/) (AB) |
 | Klardaten | 0 | 1 | Full-stack | [Senior Software Engineer](https://gocmeden.hellobasalt.dev/is/klardaten-senior-software-engineer-4332f3/) (AB) |
 | Lightdash | 0 | 1 | Yazılım (genel) | [Analytics Engineering Advocate - Europe](https://gocmeden.hellobasalt.dev/is/lightdash-analytics-engineering-advocate-europe-887029/) (AB) |
-| Ojin | 0 | 1 | DevOps / SRE / Cloud | [Lead Platform Engineer](https://gocmeden.hellobasalt.dev/is/ojin-lead-platform-engineer-3003da/) (AB) |
-| Pairio | 0 | 1 | Mobil | [Senior Swift Engineer](https://gocmeden.hellobasalt.dev/is/pairio-senior-swift-engineer-abc6b9/) (AB) |
-| Revieve Oy | 0 | 1 | Full-stack | [Senior Product Engineer](https://gocmeden.hellobasalt.dev/is/revieve-oy-senior-product-engineer-520d64/) (AB) |
+| Mozilla | 0 | 1 | Güvenlik | [Senior Software Engineer, Firefox Security](https://gocmeden.hellobasalt.dev/is/mozilla-senior-software-engineer-firefox-security-ada29a/) (AB) |
+| River | 0 | 1 | Backend | [Staff Engineers (Elixir)](https://gocmeden.hellobasalt.dev/is/river-staff-engineers-elixir-236c67/) (AB) |
+| Splash Tech | 0 | 1 | DevOps / SRE / Cloud | [DevOps Mid/Senior](https://gocmeden.hellobasalt.dev/is/splash-tech-devops-mid-senior-7e6642/) (AB) |
 
 ## Daha önce listede olan şirketler
 
@@ -78,7 +74,21 @@ Türkiye'de yaşarken başvurabileceğin, şu an açık remote yazılım ilanı 
 
 | Şirket | Son görülme | İlk görülme |
 |---|---|---|
-| Birleşmiş Milletler · Department of Operational Support | 2026-11-01 | 2026-10-18 |
+| ALBERT | 2026-11-02 | 2026-10-16 |
+| Axmed | 2026-11-02 | 2026-10-16 |
+| Buoyant | 2026-11-02 | 2026-10-16 |
+| Commencis (Commencis Teknoloji A.Ş.) | 2026-11-02 | 2026-10-28 |
+| MaFi Games | 2026-11-02 | 2026-10-16 |
+| Mastra | 2026-11-02 | 2026-10-16 |
+| Matter Labs | 2026-11-02 | 2026-10-24 |
+| Ojin | 2026-11-02 | 2026-10-16 |
+| Pairio | 2026-11-02 | 2026-10-16 |
+| Revieve Oy | 2026-11-02 | 2026-10-16 |
+| Ruby Labs | 2026-11-02 | 2026-10-22 |
+| SumatoSoft | 2026-11-02 | 2026-10-17 |
+| Tangem AG | 2026-11-02 | 2026-11-02 |
+| tbi bank | 2026-11-02 | 2026-11-02 |
+| Zella Technologies, LLC | 2026-11-02 | 2026-10-28 |
 | Bloomreach | 2026-11-01 | 2026-10-18 |
 | Enode | 2026-11-01 | 2026-10-30 |
 | GitLab | 2026-11-01 | 2026-10-19 |
@@ -95,12 +105,9 @@ Türkiye'de yaşarken başvurabileceğin, şu an açık remote yazılım ilanı 
 | Hospitable | 2026-10-31 | 2026-10-16 |
 | JUPUS | 2026-10-31 | 2026-10-16 |
 | Kraken | 2026-10-31 | 2026-10-25 |
-| KSC Trading | 2026-10-31 | 2026-10-16 |
 | Modash.io | 2026-10-31 | 2026-10-16 |
 | OpenSanctions | 2026-10-31 | 2026-10-16 |
-| River | 2026-10-31 | 2026-10-16 |
 | Search Atlas | 2026-10-31 | 2026-10-16 |
-| SerpApi | 2026-10-31 | 2026-10-16 |
 | Tether | 2026-10-31 | 2026-10-16 |
 | TMC International | 2026-10-31 | 2026-10-29 |
 | DataKrew Pvt. Ltd. | 2026-10-30 | 2026-10-27 |
