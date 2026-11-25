@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "source": "https://gocmeden.hellobasalt.dev/veri/",
  "licence": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.tr). Atıf: Göçmeden, gocmeden.hellobasalt.dev",
  "companies": {
@@ -8,8 +8,8 @@
    "open": 28,
    "eu": 0,
    "roles": {
-    "DevOps / SRE / Cloud": 5,
-    "Yazılım (genel)": 8,
+    "DevOps / SRE / Cloud": 6,
+    "Yazılım (genel)": 7,
     "Backend": 3,
     "Mühendislik yönetimi": 3,
     "Veri": 2,
@@ -91,15 +91,15 @@
      "eligibility": "acik"
     },
     {
-     "id": "supabase-postgres-deployment-engineer-nix-86561b",
-     "url": "https://gocmeden.hellobasalt.dev/is/supabase-postgres-deployment-engineer-nix-86561b/",
-     "title": "Postgres Deployment Engineer (Nix)",
+     "id": "supabase-platform-engineer-compute-5d532a",
+     "url": "https://gocmeden.hellobasalt.dev/is/supabase-platform-engineer-compute-5d532a/",
+     "title": "Platform Engineer - Compute",
      "eligibility": "acik"
     },
     {
-     "id": "supabase-product-lead-infrastructure-62439f",
-     "url": "https://gocmeden.hellobasalt.dev/is/supabase-product-lead-infrastructure-62439f/",
-     "title": "Product Lead - Infrastructure",
+     "id": "supabase-platform-engineer-managed-postgres-1dfa1b",
+     "url": "https://gocmeden.hellobasalt.dev/is/supabase-platform-engineer-managed-postgres-1dfa1b/",
+     "title": "Platform Engineer, Managed Postgres",
      "eligibility": "acik"
     },
     {
@@ -112,6 +112,12 @@
      "id": "supabase-product-manager-postgres-74fec6",
      "url": "https://gocmeden.hellobasalt.dev/is/supabase-product-manager-postgres-74fec6/",
      "title": "Product Manager - Postgres",
+     "eligibility": "acik"
+    },
+    {
+     "id": "supabase-product-manager-realtime-b0f384",
+     "url": "https://gocmeden.hellobasalt.dev/is/supabase-product-manager-realtime-b0f384/",
+     "title": "Product Manager - Realtime",
      "eligibility": "acik"
     },
     {
@@ -151,12 +157,6 @@
      "eligibility": "acik"
     },
     {
-     "id": "supabase-software-engineer-auth-42bd4d",
-     "url": "https://gocmeden.hellobasalt.dev/is/supabase-software-engineer-auth-42bd4d/",
-     "title": "Software Engineer - Auth",
-     "eligibility": "acik"
-    },
-    {
      "id": "supabase-software-engineer-interfaces-backend-44617a",
      "url": "https://gocmeden.hellobasalt.dev/is/supabase-software-engineer-interfaces-backend-44617a/",
      "title": "Software Engineer - Interfaces Backend",
@@ -188,7 +188,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Proxify": {
    "name": "Proxify",
@@ -296,7 +296,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Canonical": {
    "name": "Canonical",
@@ -482,7 +482,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Metabase": {
    "name": "Metabase",
@@ -561,7 +561,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Railway": {
    "name": "Railway",
@@ -617,7 +617,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Sporty Group": {
    "name": "Sporty Group",
@@ -709,7 +709,7 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Lemon.io": {
    "name": "Lemon.io",
@@ -768,7 +768,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "DuckDuckGo": {
    "name": "DuckDuckGo",
@@ -786,7 +786,7 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "micro1": {
    "name": "micro1",
@@ -836,7 +836,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "UNICEF": {
    "name": "UNICEF",
@@ -854,7 +854,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Birleşmiş Milletler · Economic and Social Commission for Western Asia": {
    "name": "Birleşmiş Milletler · Economic and Social Commission for Western Asia",
@@ -897,7 +897,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Clera": {
    "name": "Clera",
@@ -911,18 +911,9 @@
   "PlanetScale": {
    "name": "PlanetScale",
    "open": 0,
-   "eu": 1,
-   "roles": {
-    "Yazılım (genel)": 1
-   },
-   "jobs": [
-    {
-     "id": "planetscale-customer-support-engineer-030c0c",
-     "url": "https://gocmeden.hellobasalt.dev/is/planetscale-customer-support-engineer-030c0c/",
-     "title": "Customer Support Engineer",
-     "eligibility": "eu"
-    }
-   ],
+   "eu": 0,
+   "roles": {},
+   "jobs": [],
    "first_seen": "2026-10-16",
    "last_seen": "2026-11-24"
   },
@@ -951,7 +942,7 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Banco Plata, S.A., Institución de Banca Múltiple": {
    "name": "Banco Plata, S.A., Institución de Banca Múltiple",
@@ -976,7 +967,7 @@
     }
    ],
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "lemon.io": {
    "name": "lemon.io",
@@ -994,7 +985,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "MailerLite": {
    "name": "MailerLite",
@@ -1037,7 +1028,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Linear": {
    "name": "Linear",
@@ -1082,7 +1073,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Oyster HR": {
    "name": "Oyster HR",
@@ -1114,7 +1105,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Zapier": {
    "name": "Zapier",
@@ -1138,7 +1129,7 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "ALBERT": {
    "name": "ALBERT",
@@ -1183,7 +1174,7 @@
     }
    ],
    "first_seen": "2026-10-18",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Birleşmiş Milletler · United Nations Environment Programme": {
    "name": "Birleşmiş Milletler · United Nations Environment Programme",
@@ -1235,7 +1226,7 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Customer.io": {
    "name": "Customer.io",
@@ -1260,7 +1251,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Datamint": {
    "name": "Datamint",
@@ -1273,19 +1264,10 @@
   },
   "EDB": {
    "name": "EDB",
-   "open": 1,
+   "open": 0,
    "eu": 0,
-   "roles": {
-    "AI / ML": 1
-   },
-   "jobs": [
-    {
-     "id": "edb-machine-learning-engineer-governance-ml-platform-3bde79",
-     "url": "https://gocmeden.hellobasalt.dev/is/edb-machine-learning-engineer-governance-ml-platform-3bde79/",
-     "title": "Machine Learning Engineer (Governance ML Platform)",
-     "eligibility": "acik"
-    }
-   ],
+   "roles": {},
+   "jobs": [],
    "first_seen": "2026-10-18",
    "last_seen": "2026-11-24"
   },
@@ -1386,7 +1368,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Levelup Labs": {
    "name": "Levelup Labs",
@@ -1480,12 +1462,21 @@
   },
   "RevenueCat": {
    "name": "RevenueCat",
-   "open": 0,
+   "open": 1,
    "eu": 0,
-   "roles": {},
-   "jobs": [],
+   "roles": {
+    "Ürün": 1
+   },
+   "jobs": [
+    {
+     "id": "revenuecat-senior-product-manager-ad-monetization-3d44b0",
+     "url": "https://gocmeden.hellobasalt.dev/is/revenuecat-senior-product-manager-ad-monetization-3d44b0/",
+     "title": "Senior Product Manager, Ad Monetization",
+     "eligibility": "acik"
+    }
+   ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-11"
+   "last_seen": "2026-11-25"
   },
   "Search Atlas": {
    "name": "Search Atlas",
@@ -1503,7 +1494,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "SerpApi": {
    "name": "SerpApi",
@@ -1521,7 +1512,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Skedda": {
    "name": "Skedda",
@@ -1566,7 +1557,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Tether Operations Limited": {
    "name": "Tether Operations Limited",
@@ -1675,7 +1666,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Consensys": {
    "name": "Consensys",
@@ -1721,7 +1712,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Bloomreach": {
    "name": "Bloomreach",
@@ -1793,7 +1784,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Buoyant": {
    "name": "Buoyant",
@@ -1829,7 +1820,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "eventfirst": {
    "name": "eventfirst",
@@ -1847,7 +1838,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "GitBook": {
    "name": "GitBook",
@@ -1901,7 +1892,7 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Modash.io": {
    "name": "Modash.io",
@@ -1919,7 +1910,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Ojin": {
    "name": "Ojin",
@@ -1982,14 +1973,15 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Elevenlabs": {
    "name": "Elevenlabs",
-   "open": 1,
+   "open": 2,
    "eu": 0,
    "roles": {
-    "Full-stack": 1
+    "Full-stack": 1,
+    "AI / ML": 1
    },
    "jobs": [
     {
@@ -1997,10 +1989,16 @@
      "url": "https://gocmeden.hellobasalt.dev/is/elevenlabs-full-stack-engineer-backend-leaning-creative-f5175d/",
      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
      "eligibility": "acik"
+    },
+    {
+     "id": "elevenlabs-research-engineer-data-infrastructure-2e2a6b",
+     "url": "https://gocmeden.hellobasalt.dev/is/elevenlabs-research-engineer-data-infrastructure-2e2a6b/",
+     "title": "Research Engineer - Data Infrastructure",
+     "eligibility": "acik"
     }
    ],
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Novakid School": {
    "name": "Novakid School",
@@ -2061,7 +2059,7 @@
     }
    ],
    "first_seen": "2026-10-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Roboflow": {
    "name": "Roboflow",
@@ -2088,7 +2086,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Codest Ltd. Company No. 12590542, VAT number: GB363431020": {
    "name": "Codest Ltd. Company No. 12590542, VAT number: GB363431020",
@@ -2169,7 +2167,7 @@
     }
    ],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Ruby Labs": {
    "name": "Ruby Labs",
@@ -2205,7 +2203,7 @@
     }
    ],
    "first_seen": "2026-10-21",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Spread Group": {
    "name": "Spread Group",
@@ -2300,27 +2298,34 @@
   "Nebius": {
    "name": "Nebius",
    "open": 0,
-   "eu": 2,
+   "eu": 3,
    "roles": {
     "Güvenlik": 1,
-    "Ürün": 1
+    "Veri": 1,
+    "DevOps / SRE / Cloud": 1
    },
    "jobs": [
     {
-     "id": "nebius-offensive-security-engineer-c2186e",
-     "url": "https://gocmeden.hellobasalt.dev/is/nebius-offensive-security-engineer-c2186e/",
-     "title": "Offensive Security Engineer",
+     "id": "nebius-security-solutions-engineer-a58539",
+     "url": "https://gocmeden.hellobasalt.dev/is/nebius-security-solutions-engineer-a58539/",
+     "title": "Security Solutions Engineer",
      "eligibility": "eu"
     },
     {
-     "id": "nebius-product-manager-security-222918",
-     "url": "https://gocmeden.hellobasalt.dev/is/nebius-product-manager-security-222918/",
-     "title": "Product Manager - Security",
+     "id": "nebius-senior-data-engineer-5878a4",
+     "url": "https://gocmeden.hellobasalt.dev/is/nebius-senior-data-engineer-5878a4/",
+     "title": "Senior Data Engineer",
+     "eligibility": "eu"
+    },
+    {
+     "id": "nebius-senior-hpc-cluster-engineer-dc0425",
+     "url": "https://gocmeden.hellobasalt.dev/is/nebius-senior-hpc-cluster-engineer-dc0425/",
+     "title": "Senior HPC Cluster Engineer",
      "eligibility": "eu"
     }
    ],
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Affle 3i Ltd": {
    "name": "Affle 3i Ltd",
@@ -2347,7 +2352,7 @@
     }
    ],
    "first_seen": "2026-10-23",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Corpay": {
    "name": "Corpay",
@@ -2406,18 +2411,9 @@
   "Mozilla": {
    "name": "Mozilla",
    "open": 0,
-   "eu": 1,
-   "roles": {
-    "Veri": 1
-   },
-   "jobs": [
-    {
-     "id": "mozilla-contract-sr-data-analyst-sql-telemetry-browser-39a7e1",
-     "url": "https://gocmeden.hellobasalt.dev/is/mozilla-contract-sr-data-analyst-sql-telemetry-browser-39a7e1/",
-     "title": "Contract Sr Data Analyst (SQL,Telemetry,Browser Engine)",
-     "eligibility": "eu"
-    }
-   ],
+   "eu": 0,
+   "roles": {},
+   "jobs": [],
    "first_seen": "2026-10-16",
    "last_seen": "2026-11-24"
   },
@@ -2433,11 +2429,20 @@
   "Playson": {
    "name": "Playson",
    "open": 0,
-   "eu": 0,
-   "roles": {},
-   "jobs": [],
+   "eu": 1,
+   "roles": {
+    "Yazılım (genel)": 1
+   },
+   "jobs": [
+    {
+     "id": "playson-technical-program-manager-cbfac3",
+     "url": "https://gocmeden.hellobasalt.dev/is/playson-technical-program-manager-cbfac3/",
+     "title": "Technical Program Manager",
+     "eligibility": "eu"
+    }
+   ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-16"
+   "last_seen": "2026-11-25"
   },
   "Zoftify — Travel Software Development": {
    "name": "Zoftify — Travel Software Development",
@@ -2497,7 +2502,7 @@
     }
    ],
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "fal": {
    "name": "fal",
@@ -2522,7 +2527,7 @@
     }
    ],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Mercury Business Services": {
    "name": "Mercury Business Services",
@@ -2558,7 +2563,7 @@
     }
    ],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "B2spin": {
    "name": "B2spin",
@@ -2648,7 +2653,7 @@
     }
    ],
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Impact Brands": {
    "name": "Impact Brands",
@@ -2675,7 +2680,7 @@
     }
    ],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Jito": {
    "name": "Jito",
@@ -2702,7 +2707,7 @@
     }
    ],
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Matter Labs": {
    "name": "Matter Labs",
@@ -2824,9 +2829,9 @@
   "Resend": {
    "name": "Resend",
    "open": 0,
-   "eu": 5,
+   "eu": 4,
    "roles": {
-    "Backend": 2,
+    "Backend": 1,
     "Güvenlik": 1,
     "Yazılım (genel)": 2
    },
@@ -2835,12 +2840,6 @@
      "id": "resend-backend-engineer-8c64db",
      "url": "https://gocmeden.hellobasalt.dev/is/resend-backend-engineer-8c64db/",
      "title": "Backend Engineer",
-     "eligibility": "eu"
-    },
-    {
-     "id": "resend-backend-engineer-mta-edb71d",
-     "url": "https://gocmeden.hellobasalt.dev/is/resend-backend-engineer-mta-edb71d/",
-     "title": "Backend Engineer, MTA",
      "eligibility": "eu"
     },
     {
@@ -2863,7 +2862,7 @@
     }
    ],
    "first_seen": "2026-10-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Ashby": {
    "name": "Ashby",
@@ -2921,11 +2920,11 @@
   },
   "Xperteez Technology": {
    "name": "Xperteez Technology",
-   "open": 8,
+   "open": 7,
    "eu": 0,
    "roles": {
     "Backend": 1,
-    "AI / ML": 7
+    "AI / ML": 6
    },
    "jobs": [
     {
@@ -2944,12 +2943,6 @@
      "id": "xperteez-technology-ml-engineer-remote-contract-d5ac0e",
      "url": "https://gocmeden.hellobasalt.dev/is/xperteez-technology-ml-engineer-remote-contract-d5ac0e/",
      "title": "🌍 ML Engineer, Remote- Contract",
-     "eligibility": "acik"
-    },
-    {
-     "id": "xperteez-technology-competitive-data-scientist-kaggle-remote-bd7d3c",
-     "url": "https://gocmeden.hellobasalt.dev/is/xperteez-technology-competitive-data-scientist-kaggle-remote-bd7d3c/",
-     "title": "Competitive Data Scientist (Kaggle) | Remote - Contract",
      "eligibility": "acik"
     },
     {
@@ -2978,7 +2971,7 @@
     }
    ],
    "first_seen": "2026-10-25",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "XION": {
    "name": "XION",
@@ -3244,11 +3237,20 @@
   "Enode": {
    "name": "Enode",
    "open": 0,
-   "eu": 0,
-   "roles": {},
-   "jobs": [],
+   "eu": 1,
+   "roles": {
+    "Yazılım (genel)": 1
+   },
+   "jobs": [
+    {
+     "id": "enode-forward-deployed-engineer-c90abb",
+     "url": "https://gocmeden.hellobasalt.dev/is/enode-forward-deployed-engineer-c90abb/",
+     "title": "Forward Deployed Engineer",
+     "eligibility": "eu"
+    }
+   ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-25"
   },
   "Myriad360": {
    "name": "Myriad360",
@@ -3374,7 +3376,7 @@
     }
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Evaboot": {
    "name": "Evaboot",
@@ -3392,7 +3394,7 @@
     }
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "MixRank": {
    "name": "MixRank",
@@ -3410,7 +3412,7 @@
     }
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Simple Analytics": {
    "name": "Simple Analytics",
@@ -3428,7 +3430,7 @@
     }
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Vonage": {
    "name": "Vonage",
@@ -3455,7 +3457,7 @@
     }
    ],
    "first_seen": "2026-11-02",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Splash Tech": {
    "name": "Splash Tech",
@@ -3473,7 +3475,7 @@
     }
    ],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Babou AI": {
    "name": "Babou AI",
@@ -3536,7 +3538,7 @@
     }
    ],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "G2i Inc.": {
    "name": "G2i Inc.",
@@ -3554,7 +3556,7 @@
     }
    ],
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Human Power BG": {
    "name": "Human Power BG",
@@ -3590,7 +3592,7 @@
     }
    ],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "ControlPlane": {
    "name": "ControlPlane",
@@ -3608,7 +3610,7 @@
     }
    ],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Docusketch": {
    "name": "Docusketch",
@@ -3635,7 +3637,7 @@
     }
    ],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "SEEKING FREELANCER": {
    "name": "SEEKING FREELANCER",
@@ -3653,7 +3655,7 @@
     }
    ],
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Bubblehouse": {
    "name": "Bubblehouse",
@@ -3671,7 +3673,7 @@
     }
    ],
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Contentstack": {
    "name": "Contentstack",
@@ -3730,7 +3732,7 @@
     }
    ],
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Claims": {
    "name": "Claims",
@@ -3784,7 +3786,7 @@
     }
    ],
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "CodePath": {
    "name": "CodePath",
@@ -3892,7 +3894,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "PadSplit": {
    "name": "PadSplit",
@@ -3919,7 +3921,7 @@
     }
    ],
    "first_seen": "2026-10-16",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "HyperHug": {
    "name": "HyperHug",
@@ -3955,7 +3957,7 @@
     }
    ],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Bybit": {
    "name": "Bybit",
@@ -3982,7 +3984,7 @@
     }
    ],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Notabene": {
    "name": "Notabene",
@@ -4018,7 +4020,7 @@
     }
    ],
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Stripe": {
    "name": "Stripe",
@@ -4126,7 +4128,7 @@
     }
    ],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Kirin": {
    "name": "Kirin",
@@ -4153,7 +4155,7 @@
     }
    ],
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Nerdio": {
    "name": "Nerdio",
@@ -4225,7 +4227,7 @@
     }
    ],
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Workster Jobs": {
    "name": "Workster Jobs",
@@ -4261,7 +4263,7 @@
     }
    ],
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Kayzen": {
    "name": "Kayzen",
@@ -4310,10 +4312,10 @@
   },
   "Featherless AI": {
    "name": "Featherless AI",
-   "open": 5,
+   "open": 6,
    "eu": 0,
    "roles": {
-    "AI / ML": 5
+    "AI / ML": 6
    },
    "jobs": [
     {
@@ -4335,6 +4337,12 @@
      "eligibility": "acik"
     },
     {
+     "id": "featherless-ai-machine-learning-engineer-inference-111fd3",
+     "url": "https://gocmeden.hellobasalt.dev/is/featherless-ai-machine-learning-engineer-inference-111fd3/",
+     "title": "Machine Learning Engineer — Inference Optimization",
+     "eligibility": "acik"
+    },
+    {
      "id": "featherless-ai-machine-learning-engineer-multilingual-data-35de7e",
      "url": "https://gocmeden.hellobasalt.dev/is/featherless-ai-machine-learning-engineer-multilingual-data-35de7e/",
      "title": "Machine Learning Engineer — Multilingual Data",
@@ -4348,7 +4356,7 @@
     }
    ],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Keyrock": {
    "name": "Keyrock",
@@ -4382,7 +4390,7 @@
     }
    ],
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "futureproof": {
    "name": "futureproof",
@@ -4409,7 +4417,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Fingerprint": {
    "name": "Fingerprint",
@@ -4427,7 +4435,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "LSD Open": {
    "name": "LSD Open",
@@ -4445,7 +4453,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "WIRE IT": {
    "name": "WIRE IT",
@@ -4476,7 +4484,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Concentrix": {
    "name": "Concentrix",
@@ -4494,7 +4502,7 @@
     }
    ],
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Netlify": {
    "name": "Netlify",
@@ -4521,14 +4529,15 @@
     }
    ],
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Acronis": {
    "name": "Acronis",
-   "open": 2,
+   "open": 3,
    "eu": 0,
    "roles": {
     "AI / ML": 1,
+    "DevOps / SRE / Cloud": 1,
     "Backend": 1
    },
    "jobs": [
@@ -4539,6 +4548,12 @@
      "eligibility": "acik"
     },
     {
+     "id": "acronis-senior-automation-qa-engineer-python-cloud-4cb8dc",
+     "url": "https://gocmeden.hellobasalt.dev/is/acronis-senior-automation-qa-engineer-python-cloud-4cb8dc/",
+     "title": "Senior Automation QA Engineer (Python / Cloud Infrastructure)",
+     "eligibility": "acik"
+    },
+    {
      "id": "acronis-senior-software-developer-python-go-faddd7",
      "url": "https://gocmeden.hellobasalt.dev/is/acronis-senior-software-developer-python-go-faddd7/",
      "title": "Senior Software Developer-Python/Go",
@@ -4546,7 +4561,7 @@
     }
    ],
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Stillfront": {
    "name": "Stillfront",
@@ -4564,7 +4579,7 @@
     }
    ],
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "IRIUM Portugal": {
    "name": "IRIUM Portugal",
@@ -4582,7 +4597,7 @@
     }
    ],
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Secure Privacy": {
    "name": "Secure Privacy",
@@ -4600,7 +4615,7 @@
     }
    ],
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Syd Life AI": {
    "name": "Syd Life AI",
@@ -4632,14 +4647,14 @@
     }
    ],
    "first_seen": "2026-10-17",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "BJAK": {
    "name": "BJAK",
-   "open": 3,
+   "open": 2,
    "eu": 0,
    "roles": {
-    "Yazılım (genel)": 3
+    "Yazılım (genel)": 2
    },
    "jobs": [
     {
@@ -4653,16 +4668,10 @@
      "url": "https://gocmeden.hellobasalt.dev/is/bjak-principal-software-engineer-abc098/",
      "title": "Principal Software Engineer",
      "eligibility": "acik"
-    },
-    {
-     "id": "bjak-staff-software-engineer-5f4186",
-     "url": "https://gocmeden.hellobasalt.dev/is/bjak-staff-software-engineer-5f4186/",
-     "title": "Staff Software Engineer",
-     "eligibility": "acik"
     }
    ],
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Birleşmiş Milletler · Department of Peace Operations": {
    "name": "Birleşmiş Milletler · Department of Peace Operations",
@@ -4680,7 +4689,7 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "SafetyWing": {
    "name": "SafetyWing",
@@ -4698,7 +4707,7 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
   },
   "Airalo": {
    "name": "Airalo",
@@ -4723,7 +4732,61 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24"
+   "last_seen": "2026-11-25"
+  },
+  "ART2HIRE": {
+   "name": "ART2HIRE",
+   "open": 1,
+   "eu": 0,
+   "roles": {
+    "Tasarım": 1
+   },
+   "jobs": [
+    {
+     "id": "art2hire-senior-mobile-product-designer-1732b9",
+     "url": "https://gocmeden.hellobasalt.dev/is/art2hire-senior-mobile-product-designer-1732b9/",
+     "title": "Senior Mobile Product Designer",
+     "eligibility": "acik"
+    }
+   ],
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "OpenSea": {
+   "name": "OpenSea",
+   "open": 0,
+   "eu": 1,
+   "roles": {
+    "Güvenlik": 1
+   },
+   "jobs": [
+    {
+     "id": "opensea-staff-security-engineer-51e7af",
+     "url": "https://gocmeden.hellobasalt.dev/is/opensea-staff-security-engineer-51e7af/",
+     "title": "Staff Security Engineer",
+     "eligibility": "eu"
+    }
+   ],
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-25"
+  },
+  "TechInsights": {
+   "name": "TechInsights",
+   "open": 0,
+   "eu": 1,
+   "roles": {
+    "Veri": 1
+   },
+   "jobs": [
+    {
+     "id": "techinsights-data-analyst-remote-europe-uk-f2a7cf",
+     "url": "https://gocmeden.hellobasalt.dev/is/techinsights-data-analyst-remote-europe-uk-f2a7cf/",
+     "title": "Data Analyst - Remote Europe/UK",
+     "eligibility": "eu"
+    }
+   ],
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-25"
   }
  }
 }
